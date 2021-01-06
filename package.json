@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eslint-plugin-html": "^6.0.2",
     "moment": "^2.26.0",
     "vee-validate": "^3.3.0",
